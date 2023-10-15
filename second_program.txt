@@ -1,0 +1,11 @@
+
+prinr("hello world")
+
+a = 3
+b = 4
+c = a+b
+
+prinr(c)
+
+
+print("call second py")
